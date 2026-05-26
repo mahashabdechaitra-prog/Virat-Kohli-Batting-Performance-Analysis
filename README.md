@@ -62,7 +62,7 @@ This project focuses on analyzing Virat Kohli’s batting performance from 2008 
 * Performance Trend Graphs
 
 
-## 💡 Sports Insights
+## Sports Insights
 
 * Virat Kohli’s batting performance improved significantly after 2012 due to increased consistency, better shot selection, and stronger match temperament
 * The analysis reflects his transformation from a young aggressive batsman into a mature and dependable run-scorer
@@ -71,12 +71,12 @@ This project focuses on analyzing Virat Kohli’s batting performance from 2008 
 * Visualizations highlight how Kohli became one of the most dominant batsmen during 2012–2018
 
 
-## 🧾 Conclusion
+## Conclusion
 
 This project successfully analyzed Virat Kohli’s batting statistics from 2008–2018 to understand his growth, consistency, and transformation as a batsman. Through exploratory data analysis and visualization techniques, the project demonstrates how player performance evolved over time, especially after 2012 when Kohli developed into a more disciplined, consistent, and impactful batsman. The analysis effectively showcases the role of data analytics in understanding sports performance and player evolution.
 
 
-## 📌 Key Outcomes
+## Key Outcomes
 
 * Identified Virat Kohli’s transformation and performance improvement after 2012
 * Analyzed yearly batting consistency and scoring patterns
